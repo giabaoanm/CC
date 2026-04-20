@@ -1,0 +1,20 @@
+{
+  "project_name": "ung-dung-dieu-tra-an-ninh-mang",
+  "language": "vi-VN",
+  "encoding": "UTF-8",
+  "portable_target": ["Windows 10", "Windows 11"],
+  "phases": [
+    {"id": 1, "name": "Nen tang", "weeks": "1-2"},
+    {"id": 2, "name": "Thu thap du lieu v1", "weeks": "3-4"},
+    {"id": 3, "name": "Phat hien v1", "weeks": "5-6"},
+    {"id": 4, "name": "Chuoi chung cu", "weeks": "7-8"},
+    {"id": 5, "name": "Dau hieu pha hoai/ransomware", "weeks": "9-10"},
+    {"id": 6, "name": "Portable + kiem dinh", "weeks": "11"},
+    {"id": 7, "name": "Nghiem thu", "weeks": "12"}
+  ],
+  "mandatory": {
+    "ui_vietnamese_unicode": true,
+    "report_vietnamese_unicode": true,
+    "utf8_files_only": true
+  }
+}

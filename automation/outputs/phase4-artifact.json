@@ -1,0 +1,11 @@
+﻿{
+    "phase":  4,
+    "name":  "Evidence chain",
+    "status":  "implemented",
+    "implemented_at":  "2026-04-20T18:15:14",
+    "requirements":  [
+                         "ui_vi_vn_utf8",
+                         "report_vi_vn_utf8",
+                         "admin_collection_workflow"
+                     ]
+}

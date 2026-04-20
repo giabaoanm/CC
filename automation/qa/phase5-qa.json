@@ -1,0 +1,7 @@
+﻿{
+    "phase":  5,
+    "name":  "Ransomware signals",
+    "result":  "pass",
+    "detail":  "Artifact created and verified.",
+    "checked_at":  "2026-04-20T18:15:14"
+}
